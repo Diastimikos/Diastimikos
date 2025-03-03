@@ -1,4 +1,4 @@
-<h1>Hello there. General Ken...<br/>
+<h1>-Hello there. -General Ken...<br/>
   Ehm, I'm Thanasis. 
 <h2><a href="https://github.com/Diastimikos/">Github</a>, <a href="https://www.linkedin.com/in/joshmadakor/">LinkedIn</a></h2>
 <h2>👨‍💻 Every Project till now:</h2>
