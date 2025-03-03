@@ -3,7 +3,7 @@
 <h2><a href="https://github.com/Diastimikos/">Github</a>, <a href="https://www.linkedin.com/in/joshmadakor/">LinkedIn</a></h2>
 <h2>👨‍💻 Every Project till now:</h2>
 
-- <b>Project 1</b>
+- <b>Project 1</b> (Arduino Projects)
   - [3 DOF Robot Arm](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Project 2</b>
   - [Hold Previous State](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
