@@ -4,7 +4,7 @@
 <h2>👨‍💻 Every Project till now:</h2>
 
 - <b>Project 1</b> (Arduino Projects)
-  - [3 DOF Robot Arm](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [3 DOF Robot Arm](https://github.com/Diastimikos/RobotArm3DOF)
 - <b>Project 2</b>
   - [Hold Previous State](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 <h2>📺 Popular YouTube Videos</h2>
