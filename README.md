@@ -7,6 +7,10 @@
   - [3 DOF Robot Arm](https://github.com/Diastimikos/RobotArm3DOF)
 - <b>Project 2</b>
   - [Hold Previous State](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+
+<h2>Labview Exercises</h2>
+  - <a href="https://github.com/Diastimikos/Labview_2021">Labview 2021
+    
 <h2>📺 Popular YouTube Videos</h2>
 
 - [O Papaflessas](https://www.youtube.com/watch?v=a83ASGn_V_s)
