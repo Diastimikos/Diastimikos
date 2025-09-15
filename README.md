@@ -9,7 +9,9 @@
   - [Hold Previous State](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 
 <h2>Labview Exercises</h2>
+  - [3 DOF Robot Arm](https://github.com/Diastimikos/RobotArm3DOF)
   - <a href="https://github.com/Diastimikos/Labview_2021">Labview 2021
+  - [Labview 2021](https://github.com/Diastimikos/Labview_2021)
     
 <h2>📺 Popular YouTube Videos</h2>
 
