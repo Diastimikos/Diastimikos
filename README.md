@@ -1,6 +1,6 @@
 <h1>Insert Bio<br/>
   
-<h2><a href="https://github.com/Diastimikos/">Github</a>, <a href="https://www.linkedin.com/in/vasilopoulos-ath">LinkedIn</a></h2>
+<!--<h2><a href="https://github.com/Diastimikos/">Github</a>,--> <a href="https://www.linkedin.com/in/vasilopoulos-ath">LinkedIn</a></h2>
 <h2>👨‍💻 Every Project till now:</h2>
 
 - <b>Project 1</b> (Arduino Projects)
